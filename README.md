@@ -57,10 +57,6 @@
   <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshwaniSharma06&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
 
-<p align="center">
-  <img width="95%" src="https://github-profile-trophy.vercel.app/?username=AshwaniSharma06&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=4" />
-</p>
-
 ---
 
 ## 📈 Activity Graph
