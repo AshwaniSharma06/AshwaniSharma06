@@ -19,7 +19,7 @@
 - 💻 Full Stack Developer (React, Node.js, Express, MongoDB)
 - 🌱 Currently building **TaskForge** and **ShopSphere**
 - 🔐 Interested in Cybersecurity and AI applications
-- 📄 Add your uploaded resume to this repository and link it from this section.
+- 📄 <a href="./Ashwani_Sharma_Resume.pdf">Download Resume</a>
 
 ---
 
@@ -77,7 +77,17 @@
 - GitHub: https://github.com/AshwaniSharma06
 - LinkedIn: https://www.linkedin.com/in/ashwani-sharma-6750712a8
 - Email: sharmaashwani8011@gmail.com
+<h1 align="center">Hi 👋, I'm Ashwani Sharma</h1>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Computer+Science+Student;Open+to+Internships;Building+Modern+Web+Applications" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AshwaniSharma06&label=Profile%20Views&color=7C3AED&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/AshwaniSharma06?label=Followers&style=for-the-badge&color=7C3AED" />
+  <img src="https://img.shields.io/github/stars/AshwaniSharma06?affiliations=OWNER&style=for-the-badge&color=7C3AED" />
+</p>
 ---
 
 ⭐ Thanks for visiting my profile!
