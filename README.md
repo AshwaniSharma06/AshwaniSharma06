@@ -45,15 +45,13 @@
 
 ---
 
-## 📊 GitHub Analytics
-
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AshwaniSharma06&show_icons=true&theme=tokyonight"/>
-<img height="170" src="https://streak-stats.demolab.com?user=AshwaniSharma06&theme=tokyonight"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AshwaniSharma06&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=AshwaniSharma06&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshwaniSharma06&layout=compact&theme=tokyonight"/>
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshwaniSharma06&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ## 📈 Activity Graph
