@@ -19,7 +19,7 @@
 - 💻 Full Stack Developer (React, Node.js, Express, MongoDB)
 - 🌱 Currently building **TaskForge** and **ShopSphere**
 - 🔐 Interested in Cybersecurity and AI applications
-- 📄 <a href="./Ashwani_Sharma_Resume.pdf">Download Resume</a>
+- 📄 <a href="./Ashwani's_Resume.pdf">Download Resume</a>
 
 ---
 
