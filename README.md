@@ -58,9 +58,7 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AshwaniSharma06&theme=tokyo-night"/>
 
-## 👾 Pac-Man Contribution Graph
-
-> Replace this image URL with your generated Pac-Man graph if needed.
+## 👾Contribution Graph
 
 <img src="https://raw.githubusercontent.com/AshwaniSharma06/AshwaniSharma06/main/pacman-contribution-graph.svg"/>
 
